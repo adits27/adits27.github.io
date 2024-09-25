@@ -1,22 +1,24 @@
 {
 	"Work Experiences": [
 		{
-			"A" : "B",
 			"Role": "Software Engineer 3, Machine Learning",
 			"Organization": "Deloitte",
 			"Year": "10/23 to 07/24"
 		},
 		{
-			"A" : "B",
 			"Role": "Software Engineer 2, Machine Learning",
 			"Organization": "Deloitte",
 			"Year": "10/21 to 09/23"
 		},
 		{
-			"A" : "B",
 			"Role": "Senior Software Engineer",
 			"Organization": "Mindtree",
 			"Year": "12/20 to 09/21"
+		},
+		{
+			"Role": "Software Engineer",
+			"Organization": "Mindtree",
+			"Year": "10/18 to 11/20"
 		}
 	]
 }
